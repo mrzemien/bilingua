@@ -11,7 +11,7 @@ description: > # "Write an awesome description for your new site here.
   head meta (for Google search results) and in your feed.xml site 
   description.
 copyright: 'Copyright &copy; 2020 Polyglots.us. All Rights Reserved.'
-credits: 'Office: 250 McAdoo Dr. 95630 Folsom, CA'
+credits: 'office: 250 McAdoo Dr. 95630 Folsom, CA \n phone: (279) 321-8106'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -28,10 +28,10 @@ permalink: pretty
 social:
   - title: e-mail
     icon: envelope
-    url: mailto:contact@polyglots.us
+    url: mailto:magdal.paczkowska@gmail.com
   - title: phone
     icon: phone
-    url: (279) 321-8106
+    url: \#location
   - title: office
     icon: home
     url: \#location
